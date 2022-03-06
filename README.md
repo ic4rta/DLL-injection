@@ -1,6 +1,6 @@
 # DLL-injection
-Program that injects a DLL
+Programa que injecta una DLL
 # Usage
-This program only injects the DLL
+Solo inyecta la DLL
 
-You must have the DLL downloaded and listening, once you inject it you can verify its result in a debugger.
+Ya debes de tener la DLL cargada y en ecucha para ejecutarlo
